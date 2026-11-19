@@ -1,0 +1,6 @@
+{
+  "name": "BEYOND THE GROUND — Joby S4 eVTOL Engineering & UAM Research",
+  "description": "Interactive 3D aerospace engineering documentary and technical feasibility study on the Joby Aviation S4 Tilt-Propeller eVTOL aircraft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
